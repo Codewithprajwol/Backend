@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "figlet": "^1.7.0",
+    "hubot-dad-jokes": "^1.0.11",
+    "one-liner-joke": "^1.2.2"
+  }
+}
